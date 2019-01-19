@@ -45,3 +45,7 @@ Shows the weather at your current location. LOL.
 - Xcode 10 or later
 
 - iOS 12.1 or later
+
+## How to run:
+
+Run *WeatherApp.xcodeproj* or *WeatherApp.xcworkspace* by double click.
