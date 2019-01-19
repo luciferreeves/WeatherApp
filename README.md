@@ -14,19 +14,19 @@ Shows the weather at your current location. LOL.
 
 ## Roadmap
 
-[x] ~~Basic App Structure~~
+- [x] ~~Basic App Structure~~
 
-[x] ~~Storing and clearing local data~~
+- [x] ~~Storing and clearing local data~~
 
-[ ] Weather of custom city function
+- [ ] Weather of custom city function
 
-[ ] No reload on User data clear
+- [ ] No reload on User data clear
 
-[ ] Retry funtion on no internet connection
+- [ ] Retry funtion on no internet connection
 
-[ ] Automatic weather load on app launch instead of clicking "Continue my experience"
+- [ ] Automatic weather load on app launch instead of clicking "Continue my experience"
 
-[ ] More beautiful "about app" UI instead of an alert.
+- [ ] More beautiful "about app" UI instead of an alert.
 
 
 
