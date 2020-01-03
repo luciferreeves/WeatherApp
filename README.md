@@ -12,9 +12,10 @@ Re-writing the App for iOS 13 using Swift 5.
 
 This is the current design I came up with for light and dark mode styles:
 
-| ![Light mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-|
+| Light mode    | Dark Mode |
+| ------------- | ------------- |
+| ![Light mode](screenshots/light.png)  | ![Dark Mode](screenshots/dark.png)  |
+
 
 
 ## Old Logs
