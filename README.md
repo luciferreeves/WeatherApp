@@ -6,7 +6,8 @@ Re-writing the App for iOS 13 using Swift 5.
 
 ### App Icon
 
-![App Icon](WeatherApp/Assets.xcassets/appstore.imageset/appstore.png =360x360)
+<img width='360px' src='WeatherApp/Assets.xcassets/appstore.imageset/appstore.png'>
+
 
 ## Old Logs
 
