@@ -8,6 +8,14 @@ Re-writing the App for iOS 13 using Swift 5.
 
 <img width='360px' src='WeatherApp/Assets.xcassets/appstore.imageset/appstore.png'>
 
+### Design
+
+This is the current design I came up with for light and dark mode styles:
+
+| ![Light mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+|
+
 
 ## Old Logs
 
