@@ -4,6 +4,10 @@
 
 Re-writing the App for iOS 13 using Swift 5.
 
+### App Icon
+
+![App Icon](WeatherApp/Assets.xcassets/appstore.imageset/appstore.png)
+
 ## Old Logs
 
 Weather App for iOS was with Cordova and Ionic
