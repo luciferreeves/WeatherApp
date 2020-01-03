@@ -16,11 +16,11 @@ Weather App for iOS was with Cordova and Ionic
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | ![5c42c9de3c52a](https://i.loli.net/2019/01/19/5c42c9de3c52a.png) | ![5c42c9f31165c](https://i.loli.net/2019/01/19/5c42c9f31165c.png) | ![5c42ca05d5ca6](https://i.loli.net/2019/01/19/5c42ca05d5ca6.png) | -->
 
-## What it does?
+### What it does?
 
 Shows the weather at your current location. LOL.
 
-## Roadmap [obsolete]
+### Roadmap [obsolete]
 
 - [x] ~~Basic App Structure~~
 
@@ -38,7 +38,7 @@ Shows the weather at your current location. LOL.
 
 
 
-## Known Bugs [obsolete]
+### Known Bugs [obsolete]
 
 - When you enter your name on first run, It shows a blank screen. App needs to be restarted. However, It remembers yours name and should work fine from there.
 
@@ -48,12 +48,12 @@ Shows the weather at your current location. LOL.
 
 
 
-## Requirements to run [obsolete]
+### Requirements to run [obsolete]
 
 - Xcode 10 or later
 
 - iOS 12.1 or later
 
-## How to run:
+### How to run:
 
-Run *WeatherApp.xcodeproj* or *WeatherApp.xcworkspace* by double click.
+Run *WeatherApp.xcodeproj* by double click.
