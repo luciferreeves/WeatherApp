@@ -1,18 +1,26 @@
 # WeatherApp
 
-Weather App for iOS written with Cordova
+## Update
 
-## Screenshots
+Re-writing the App for iOS 13 using Swift 5.
+
+## Old Logs
+
+Weather App for iOS was with Cordova and Ionic
+
+##### Screenshots have been taken down until further development
+
+<!-- ## Screenshots
 
 | ![5c42c9a554a5f](https://i.loli.net/2019/01/19/5c42c9a554a5f.png) | ![5c42c9b7ec0cc](https://i.loli.net/2019/01/19/5c42c9b7ec0cc.png) | ![5c42c9ccdb0d8](https://i.loli.net/2019/01/19/5c42c9ccdb0d8.png) |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![5c42c9de3c52a](https://i.loli.net/2019/01/19/5c42c9de3c52a.png) | ![5c42c9f31165c](https://i.loli.net/2019/01/19/5c42c9f31165c.png) | ![5c42ca05d5ca6](https://i.loli.net/2019/01/19/5c42ca05d5ca6.png) |
+| ![5c42c9de3c52a](https://i.loli.net/2019/01/19/5c42c9de3c52a.png) | ![5c42c9f31165c](https://i.loli.net/2019/01/19/5c42c9f31165c.png) | ![5c42ca05d5ca6](https://i.loli.net/2019/01/19/5c42ca05d5ca6.png) | -->
 
 ## What it does?
 
 Shows the weather at your current location. LOL.
 
-## Roadmap
+## Roadmap [obsolete]
 
 - [x] ~~Basic App Structure~~
 
@@ -30,7 +38,7 @@ Shows the weather at your current location. LOL.
 
 
 
-## Known Bugs
+## Known Bugs [obsolete]
 
 - When you enter your name on first run, It shows a blank screen. App needs to be restarted. However, It remembers yours name and should work fine from there.
 
@@ -40,7 +48,7 @@ Shows the weather at your current location. LOL.
 
 
 
-## Requirements to run
+## Requirements to run [obsolete]
 
 - Xcode 10 or later
 
